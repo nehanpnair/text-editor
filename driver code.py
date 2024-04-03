@@ -12,11 +12,11 @@ from pygame import mixer
 
 #Importing user defined modules:
 import type_classifier
-import Search_and_Replace as sar
+import search_and_replace as sar
 import save
-import Notebook
+import notebook
 import file_inp
-import WCMeter
+import wcmeter
 import opening
 
 
@@ -226,7 +226,7 @@ def main_window():
         if my_color:
             text_area.configure(bg=my_color[1])
     #-------------------------
-    wc=WCMeter.WordCounter(window,text_area)
+    wc=wcmeter.WordCounter(window,text_area)
     wc.pack(side=tk.RIGHT)
     #-------------------------
     def justifyc():
@@ -241,7 +241,7 @@ def main_window():
         text_area.tag_configure("al", justify='right')
         text_area.tag_add("al",1.0,tk.END)
     #----------------------------------
-    nb = Notebook.Tabs()
+    nb = notebook.Tabs()
     nb.display(window)
     #------------------------------------
     menu = tk.Menu(window)
