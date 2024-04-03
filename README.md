@@ -3,6 +3,7 @@
 ![bg_2](https://github.com/nehanpnair/text-editor/assets/159271815/36fd238d-e10a-47ef-bb53-515d3de1271e)
 
 
+![image](https://github.com/nehanpnair/text-editor/assets/159271815/570e4798-0cf4-4534-a213-56f11c4fa299)
 
      
 This project mimics a text editor and samples different functions (like changing text colors, fonts, word count, etc.) 
