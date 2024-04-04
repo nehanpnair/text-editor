@@ -40,7 +40,7 @@ It has been developed entirely in the python programming language using several 
 - Options to apply styles such as bold, italics and underline
 - Options to change text and background colors
 - A live word count meter
-- Three notebook tabs
+- Multiple notebook tabs
 
 
 ## LICENSE:
