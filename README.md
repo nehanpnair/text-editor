@@ -8,7 +8,7 @@
      
 This project mimics a text editor and samples different functions (like changing text colors, fonts, word count, etc.) 
 by employing simple and user friendly gui commands. 
-The code to this text editor was written in collaboration with [@nehasdixit](https://github.com/nehasdixit) and two other programmers.
+The code to this text editor was written in collaboration with [@nehasdixit](https://github.com/nehasdixit), [@niranjinii](https://github.com/niranjinii), and another other programmer.
 It has been developed entirely in the python programming language using several pre-defined as well as user-defined modules.
 
 
